@@ -1,2 +1,0 @@
-# DynamicScreens
-Dynamic Screens Tracking
